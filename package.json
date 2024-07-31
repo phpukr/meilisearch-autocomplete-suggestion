@@ -1,0 +1,24 @@
+{
+  "name": "meilisearch-autocomplete-suggestion",
+  "description": "",
+  "version": "1.7.4",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@algolia/autocomplete-js": "1.8.3",
+    "@algolia/autocomplete-plugin-query-suggestions": "1.8.3",
+    "@algolia/autocomplete-preset-algolia": "1.8.3",
+    "@algolia/autocomplete-theme-classic": "1.8.3",
+    "@meilisearch/autocomplete-client": "0.2.1",
+    "algoliasearch": "4.14.3",
+    "preact": "10.5.13"
+  },
+  "devDependencies": {
+    "parcel": "2.8.2"
+  },
+  "keywords": []
+}

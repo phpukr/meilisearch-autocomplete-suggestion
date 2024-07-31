@@ -1,2 +1,3 @@
-# meilisearch-autocomplete-suggestion
-Created with CodeSandbox
+# Meilisearch Autocomplete-client playground
+
+This example shows a Autocomplete example.
